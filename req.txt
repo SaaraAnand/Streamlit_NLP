@@ -1,0 +1,5 @@
+streamlit
+textblob
+pandas
+bs4
+emoji
